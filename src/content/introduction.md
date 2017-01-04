@@ -4,11 +4,21 @@
 
 ---
 
+## Prerequisites
+
+- Access to the command line
+- Node JS (v6 or higher)
+- NPM (v3 or higher)
+- Code editor (Sublime, Atom, etc.)
+- Some JavaScript knowledge (ES2014/ES2015)
+
+---
+
 ## Structure of this Training
 
-- 2 hours training
+- 3 hours training
 - 20min Intro/Slides
-- 1h 40min Live Coding
+- 2h 40min Live Coding (break in between)
 
 ---
 
@@ -16,7 +26,7 @@
 
 This is part 1 of a 3 part series:
 
-- Part 1: Intro to React (2h)
+- **_Part 1: Intro to React (3h)_**
 - Part 2: Intro to Redux (2h)
 - Part 3: Advanced React and Redux (2h)
 
