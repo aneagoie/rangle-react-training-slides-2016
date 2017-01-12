@@ -59,6 +59,10 @@ Angular is to React as a Kitchen is to an Oven
 
 ![atomic](content/images/atomic-components.png "atomic")
 
+> Images from:
+> Brad Frosts's article, Atomic Design
+> Joey Di Nardo's article, Atomic Components: Managing Dynamic React Components using Atomic Design — Part 1.
+
 ---
 
 ## Environment
