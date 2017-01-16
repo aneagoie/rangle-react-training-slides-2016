@@ -7,7 +7,7 @@
 ## Prerequisites
 
 - Access to the command line
-- Node JS (v6 or higher)
+- Node.jS (v6 or higher)
 - NPM (v3 or higher)
 - Code editor (Sublime, Atom, etc.)
 - Some JavaScript knowledge (ES2014/ES2015)
@@ -39,13 +39,16 @@ This is part 1 of a 3 part series:
 
 ## What Did We Have Before React?
 
-![a](content/images/jquery.svg "jquery")
+- jQuery
+- Direct DOM manipulation
 
 ---
 
 ## I Already Know Angular, Why Do I Need React?
 
 Angular is to React as a Kitchen is to an Oven
+- Facebook, Instagram, Netflix love
+- React Native + Server Side React
 
 ---
 
@@ -58,10 +61,10 @@ Angular is to React as a Kitchen is to an Oven
 ## Atomic Components
 
 ![atomic](content/images/atomic-components.png "atomic")
-
-> Images from:
-> Brad Frosts's article, Atomic Design
-> Joey Di Nardo's article, Atomic Components: Managing Dynamic React Components using Atomic Design — Part 1.
+***
+>Images from:
+>######Brad Frosts's article - Atomic Design
+>######Joey Di Nardo's article - Atomic Components: Managing Dynamic React Components using Atomic Design — Part 1.
 
 ---
 
@@ -97,13 +100,16 @@ Angular is to React as a Kitchen is to an Oven
 ---
 
 # React Lingo
-
+```
 - Virtual DOM
 - JSX
 - State
 - Props
 - Children
 - Stateless vs Stateful Components
+```
+
+ ![jsx](content/images/jsx.png "jsx")  ![class](content/images/class.png "class")
 
 ---
 
