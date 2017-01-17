@@ -7,10 +7,10 @@
 ## Prerequisites
 
 - Access to the command line
-- Node.jS (v6 or higher)
+- Node.js (v6 or higher)
 - NPM (v3 or higher)
 - Code editor (Sublime, Atom, etc.)
-- Some JavaScript knowledge (ES2014/ES2015)
+- Some JavaScript knowledge (ES5/ES6)
 
 ---
 
@@ -45,10 +45,13 @@ This is part 1 of a 3 part series:
 ---
 
 ## I Already Know Angular, Why Do I Need React?
+....You don’t!
 
 Angular is to React as a Kitchen is to an Oven
-- Facebook, Instagram, Netflix love
+- Facebook, Instagram, Netflix love React
 - React Native + Server Side React
+
+...at the end of the day, choose the right tool for the job
 
 ---
 
