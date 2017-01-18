@@ -2,6 +2,12 @@
 
 # Rangle.io
 
+>Presented by:
+
+>Andrei Neagoie - @aneagoie
+
+>Rob Brander - @rbrander
+
 ---
 
 ## Prerequisites
